@@ -1,0 +1,36 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "example express js with redux",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "restuwahyu13"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "js",
+    "redux",
+    "mongoose"
+  ],
+  "author": "restuwahyu13",
+  "license": "ISC",
+  "devDependencies": {
+
+    "redux-node-logger": "^0.1.0",
+    "nodemon": "*"
+  },
+  "dependencies": {
+
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9",
+    "morgan": "^1.9.1",
+    "redux": "^4.0.5"
+  }
+}
