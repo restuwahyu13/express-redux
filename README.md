@@ -1,4 +1,4 @@
-### Example Vanilla Javascript With Redux
+### Example Express JS With Redux
 
 **Berikut** adalah contoh sederhana cara pengunaan dasar pada `Redux` menggunakan `Express Js` semoga dengan adanya ini anda bisa memahami fungsi dari `Redux` itu sendiri, sebelum anda mengunakannya pada `React Js Application` atau yang lainnya.
 
